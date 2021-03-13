@@ -1,3 +1,12 @@
+MiniEAP-SYSU
+=======
+
+因为[有同学需要](https://github.com/updateing/minieap/issues/39)，最近电脑坏了事又多，先简单发布一下
+
+此项目经两个项目[minieap](https://github.com/updateing/minieap)，[mentohust-SYSU](https://github.com/ivechan/mentohust-SYSU)结合而来，使得minieap可在sysu使用
+
+2021年3月13日，sysu使用锐捷客户端为v4.97(win) v4.90(linux)
+
 MiniEAP
 =======
 
