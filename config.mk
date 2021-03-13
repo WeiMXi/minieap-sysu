@@ -29,8 +29,7 @@ CUSTOM_CFLAGS :=
 CUSTOM_LDFLAGS :=
 CUSTOM_LIBS :=
 
-# CC := mipsel-openwrt-linux-gcc-8.4.0
- CC := i686-w64-mingw32-gcc 
+ CC := mipsel-openwrt-linux-gcc-8.4.0
 # Example for cross-compiling
 # CC := arm-brcm-linux-uclibcgnueabi-gcc
 # ENABLE_ICONV := true
